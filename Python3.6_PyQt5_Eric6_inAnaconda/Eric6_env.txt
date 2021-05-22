@@ -1,0 +1,33 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+@EXPLICIT
+https://repo.anaconda.com/pkgs/main/osx-64/ca-certificates-2021.4.13-hecd8cb5_1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/jpeg-9b-he5867d9_2.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libcxx-10.0.0-1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libiconv-1.16-h1de35cc_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/llvm-openmp-10.0.0-h28b9765_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/xz-5.2.5-h1de35cc_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/zlib-1.2.11-h1de35cc_3.conda
+https://repo.anaconda.com/pkgs/main/osx-64/expat-2.3.0-h23ab428_2.conda
+https://repo.anaconda.com/pkgs/main/osx-64/icu-58.2-h0a44026_3.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libffi-3.3-hb1e8313_2.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libpng-1.6.37-ha441bb4_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/ncurses-6.2-h0a44026_1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/openssl-1.1.1k-h9ed2024_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/pcre-8.44-hb1e8313_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/tk-8.6.10-hb0a8c7a_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/libxml2-2.9.10-h7cdb67c_3.conda
+https://repo.anaconda.com/pkgs/main/osx-64/readline-8.1-h9ed2024_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/gettext-0.21.0-h7535e17_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/sqlite-3.35.4-hce871da_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/glib-2.68.2-hdf23fa2_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/python-3.6.13-h88f2d9e_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/qt-5.9.7-h468cd18_1.conda
+https://repo.anaconda.com/pkgs/main/osx-64/certifi-2020.12.5-py36hecd8cb5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/dbus-1.13.18-h18a8e69_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/sip-4.19.8-py36h0a44026_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/wheel-0.36.2-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/pyqt-5.9.2-py36h655552a_2.conda
+https://repo.anaconda.com/pkgs/main/osx-64/setuptools-52.0.0-py36hecd8cb5_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/pip-21.1.1-py36hecd8cb5_0.conda
